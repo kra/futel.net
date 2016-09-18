@@ -1,0 +1,54 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+.site-content  {
+  padding-top: 2em;
+  
+  img {
+    max-width:100%;
+    height:auto;
+  }
+}
+
+.nav, .footer-nav {
+  font-family: 'Source Code Pro';
+  text-transform:uppercase;
+  font-weight: 700;
+  margin-top:1em;
+}
+
+.site-footer {
+  padding-top:2em;
+  font-size:.75em;
+}
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import "bootstrap";
+
+
+.primary-header {
+  text-align:center;
+  
+  img:last-of-type {
+    margin-top:1em;
+  }
+  
+  @media (min-width: $screen-md-min) {
+    text-align:left;
+  }
+}
+
+.site-title img {
+  display:block;
+  margin:0 auto;
+  max-height:125px;
+  @media (min-width: $screen-md-min) {
+    margin:0;
+    max-height:auto;
+  }
+  
+}

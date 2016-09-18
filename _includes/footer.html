@@ -1,0 +1,22 @@
+<footer class='site-footer'>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12"> 
+          <p class='text-center'>
+            Contact us at operator@futel.net, or dial 0 from <a href='/locations'>any Futel phone</a>.
+          </p>
+          <nav class="footer-nav">
+            <p class="text-center">
+              {% for p in site.menu %}
+                {% if p.title %}
+                  <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+                  {{ loop.lst }}
+                  {% unless forloop.last %} &bullet; {% endunless %}
+                {% endif %}    
+              {% endfor %}         
+            </p>
+          </nav>
+        </div>
+      </div>
+    </div>
+</footer>
