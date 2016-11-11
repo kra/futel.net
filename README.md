@@ -26,7 +26,7 @@ Documentation for the options running a Jekyll site locally can be found on the 
 
 To make a change to the site
 
-- Fork the repo: [https://github.com/kra/futel.net](https://github.com/kra/futel.net):
+- Fork the repo: [https://github.com/kra/futel.net](https://github.com/kra/futel.net)
 - Checkout the `gh-pages` branch
 - Start Jekylll per the previous section to preview your changes in real-time and make your changes
 - When you're done with your changes create the commit and push it to your forked repo on GitHub
