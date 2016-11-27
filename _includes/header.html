@@ -1,0 +1,13 @@
+<h1 class="site-title"><a href="{{ site.baseurl }}/"><img src="/images/futel_logo_black.png" alt="{{ site.title }}" class='img-responsive'></a></h1>
+
+<ul class="nav nav-pills nav-stacked">
+  {% for p in site.data.menu %}
+    {% if p.title %}
+    <li role="presentation"{% if page.url == p.url %} class='active'{% endif %}>
+      <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+    </li>
+    {% endif %}    
+  {% endfor %}
+</ul>
+
+<img src="/images/{% if page.image %}{{ page.image }}{% else %}futel.net-lightning.png{% endif %}" alt="{{ site.title }}" class='img-responsive hidden-xs hidden-sm'>

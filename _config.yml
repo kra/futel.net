@@ -1,0 +1,10 @@
+# Site settings
+title: futel.net
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://futel.net" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-redirect-from
