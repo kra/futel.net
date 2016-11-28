@@ -27,7 +27,9 @@ Thanks to **xnor** for siting a public telephone.
 
 Futel's 2017 operations are funded in part by a donation from **Nelson**.
 
-![RACC](/images/racc_bw_primary.png) Futel's 2016 operations are funded in part by a grant from the [Regional Arts and Culture Council](http://racc.org/).
+![RACC](/images/racc_bw_primary.png) 
+
+Futel's 2016 operations are funded in part by a grant from the [Regional Arts and Culture Council](http://racc.org/).
 
 Thanks to [Awesome Portland](http://awesomeportland.org/) for their support.
 
