@@ -48,7 +48,7 @@
   max-height:125px;
   @media (min-width: $screen-md-min) {
     margin:0;
-    max-height:auto;
+    max-height:none;
   }
   
 }
