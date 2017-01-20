@@ -6,4 +6,4 @@ layout: default
 
 **All services, including telephony and human interaction, are free from any Futel telephone.**
     
-![Chickens](/images/chickens.jpg)
+![Snowball](/images/snowball.jpg)
