@@ -13,7 +13,7 @@ Support us by subscribing on [Patreon](http://patreon.com/futel).
 
 Have any of these [items](/wishlist)?
 
-Want to hack on Futel? See our [repository](https://github.com/kra/futel-installation). Creator of interactive audio art? We can help you implement your ideas in this exciting new format. Web developer? You may have noticed that we have not been able to devote much time to that aspect of this endeavor.
+Want to hack on Futel? See our repositories for [dev and ops](https://github.com/kra/futel-installation), [web development](https://github.com/kra/futel.net), and [general ops](https://github.com/kra/futel). Creator of interactive audio art? We can help you implement your ideas in this exciting new format.
 
 Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dial 0 from any Futel phone.
 
