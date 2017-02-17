@@ -29,13 +29,7 @@ Futel's 2017 operations are funded in part by a 2016 **Precipice Fund** grant, f
 
 Futel's 2017 operations are funded in part by a donation from **Nelson**.
 
-Futel's 2016 operations are funded in part by a grant from the [Regional Arts and Culture Council](http://racc.org/).
-
-Thanks to [Awesome Portland](http://awesomeportland.org/) for their support.
-
-Thanks to [ToorCamp](http://toorcamp.toorcon.net/) for their support.
-
-Thanks to [DigitalOcean](https://www.digitalocean.com/?refcode=67de68636600) for their support.
+Thanks to the [Regional Arts and Culture Council](http://racc.org/), [Awesome Portland](http://awesomeportland.org/), and [ToorCamp](http://toorcamp.toorcon.net/) for their support.
 
 Thanks to [Ctrlh](http://pdxhackerspace.org/) for their support.
 
