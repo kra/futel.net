@@ -13,7 +13,7 @@ Support us by subscribing on [Patreon](http://patreon.com/futel).
 
 Have any of these [items](/wishlist)?
 
-Want to hack on Futel? See our [repository](https://github.com/kra/futel-installation). Creator of interactive audio art? We can help you implement your ideas in this exciting new format. Web developer? You may have noticed that we have not been able to devote much time to that aspect of this endeavor.
+Want to hack on Futel? See our repositories for [dev and ops](https://github.com/kra/futel-installation), [web development](https://github.com/kra/futel.net), and [general ops](https://github.com/kra/futel). Creator of interactive audio art? We can help you implement your ideas in this exciting new format.
 
 Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dial 0 from any Futel phone.
 
@@ -23,17 +23,13 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 
 ### Contributors
 
-Thanks to **xnor** for siting a public telephone.
+Thanks to **xnor** and **G Upshaw** for siting public telephones.
+
+Futel's 2017 operations are funded in part by a 2016 **Precipice Fund** grant, funded by Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts.
 
 Futel's 2017 operations are funded in part by a donation from **Nelson**.
 
-![RACC](/images/racc_bw_primary.png) Futel's 2016 operations are funded in part by a grant from the [Regional Arts and Culture Council](http://racc.org/).
-
-Thanks to [Awesome Portland](http://awesomeportland.org/) for their support.
-
-Thanks to [ToorCamp](http://toorcamp.toorcon.net/) for their support.
-
-Thanks to [DigitalOcean](https://www.digitalocean.com/?refcode=67de68636600) for their support.
+Thanks to the [Regional Arts and Culture Council](http://racc.org/), [Awesome Portland](http://awesomeportland.org/), and [ToorCamp](http://toorcamp.toorcon.net/) for their support.
 
 Thanks to [Ctrlh](http://pdxhackerspace.org/) for their support.
 
