@@ -7,9 +7,11 @@ image: yipl_public_enemy.png
 
 Futel is made possible by volunteers and contributors, who we thank! Futel is a 501(c)(3) nonprofit organization, and contributions are tax deductible.
 
+Support us by subscribing on [Patreon](http://patreon.com/futel).
+
 Support us by buying a [T-shirt or button](http://futel.spreadshirt.com/).
 
-Support us by subscribing on [Patreon](http://patreon.com/futel).
+Support us by buying Party Line [issue 1](https://microcosmpublishing.com/catalog/zines/8068) or [issue 2](https://microcosmpublishing.com/catalog/zines/8067).
 
 Have any of these [items](/wishlist)?
 
