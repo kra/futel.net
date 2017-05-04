@@ -21,7 +21,7 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 
 ### Operators
 
-[KRA](https://github.com/kra), [Tishbite](https://github.com/lboom), operators. B. Casey, physical plant. D. Wager, HR. B. Richardson, media. J. Mejia, soundboard.
+[KRA](https://github.com/kra), [Tishbite](https://github.com/lboom), operators. B. Casey, physical plant. D. Wager, HR. J. Plumb, xnor, production. J. Mejia, B. Richardson, media.
 
 ### Contributors
 
