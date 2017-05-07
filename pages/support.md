@@ -31,8 +31,6 @@ Futel's 2017 operations are funded in part by a 2016 **Precipice Fund** grant, f
 
 Futel's 2017 operations are funded in part by a donation from **Nelson**.
 
-Thanks to the [Regional Arts and Culture Council](http://racc.org/), [Awesome Portland](http://awesomeportland.org/), and [ToorCamp](http://toorcamp.toorcon.net/) for their support.
+Thanks to the [Regional Arts and Culture Council](http://racc.org/), [Awesome Portland](http://awesomeportland.org/), Russell Senior, the [Personal Telco Project](https://personaltelco.net), [ToorCamp](http://toorcamp.toorcon.net/), and [Ctrlh](http://pdxhackerspace.org/) for their support.
 
-Thanks to [Ctrlh](http://pdxhackerspace.org/) for their support.
-
-Thanks to **Drew** at **MOHDI** and **B. Davis** for donating labor and materials. Thanks to [B-Line Urban Delivery](http://b-linepdx.com/), [Hobotech](http://hobo-tech.com/) and [Snaptortoise](https://snaptortoise.com) for donating services. Thanks to everyone who has donated time, money, expertise, and materials.
+Thanks to Drew at MOHDI and B. Davis for donating labor and materials. Thanks to [B-Line Urban Delivery](http://b-linepdx.com/), [Hobotech](http://hobo-tech.com/) and [Snaptortoise](https://snaptortoise.com) for donating services. Thanks to everyone who has donated time, money, expertise, and materials.
