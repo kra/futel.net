@@ -13,6 +13,8 @@ Support us by buying a [T-shirt or button](http://futel.spreadshirt.com/).
 
 Support us by buying Party Line [issue 1](https://microcosmpublishing.com/catalog/zines/8068) or [issue 2](https://microcosmpublishing.com/catalog/zines/8067).
 
+Support us by making a [PayPal donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AQGWRM869XTQJ) courtesy of [Umbrella](https://www.umbrellapdx.org/projects).
+
 Have any of these [items](/wishlist)?
 
 Want to hack on Futel? See our repositories for [dev and ops](https://github.com/kra/futel-installation), [web development](https://github.com/kra/futel.net), and [general ops](https://github.com/kra/futel). Creator of interactive audio art? We can help you implement your ideas in this exciting new format.
