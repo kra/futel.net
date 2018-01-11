@@ -9,7 +9,7 @@ The `gh-pages` branch for Futel.net is a [Jekyll](http://jekyllrb.com) site host
 
 ## Requirements
 
-You'll need the latest version of Jekyll installed on your machine to build and test locally. Requirements can be found on [the Jekyll installation page](https://jekyllrb.com/docs/installation/), but for most people on Linux/Unix/macOS installation should boil down to running `gem install jekyll` from the terminal.
+You'll need the latest version of Jekyll installed on your machine to build and test locally. Requirements can be found on [the Jekyll installation page](https://jekyllrb.com/docs/installation/), but for most people on Linux/Unix/macOS installation should boil down to running `gem install jekyll jekyll-redirect-from` or `gem install --user-install jekyll jekyll-redirect-from` from the terminal.
 
 
 ## Running the site locally and previewing changes
