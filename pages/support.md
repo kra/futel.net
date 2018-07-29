@@ -23,7 +23,7 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 
 ### Operators
 
-[KRA](https://github.com/kra), [Tishbite](https://github.com/lboom), developers. KRA, Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, operators. B. Casey, M. Casey, M. Lippincott, R. Senior, S., physical plant. D. Wager, HR. J. Plumb, xnor, production. B. Thunderblood, art. J. Mejia, B. Richardson, media.
+[KRA](https://github.com/kra), [Tishbite](https://github.com/lboom), developers. KRA, Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, operators. B. Casey, M. Casey, M. Lippincott, R. Senior, S., physical plant. D. Wager, HR. J. Plumb, xnor, production. Ry4an B., troubleshooter. B. Thunderblood, art. J. Mejia, B. Richardson, media.
 
 ### Contributors
 
