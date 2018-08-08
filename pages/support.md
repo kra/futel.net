@@ -27,7 +27,9 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 
 ### Contributors
 
-Thanks to **xnor**, **G Upshaw**, and **M Hansen** for siting public telephones.
+Thanks to **KRA**, **xnor**, **G Upshaw**, **Landline Creative**, and **M Hansen** for siting public telephones.
+
+Futel's 2018 operations are funded in part by a donation from **Nelson**.
 
 Futel's 2017 operations are funded in part by a 2016 **Precipice Fund** grant, funded by Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts.
 
