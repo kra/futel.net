@@ -11,7 +11,7 @@ Support us by subscribing on [Patreon](http://patreon.com/futel).
 
 Support us by buying a [T-shirt or button](http://futel.spreadshirt.com/).
 
-Support us by buying Party Line [issue 1](https://microcosmpublishing.com/catalog/zines/8068) or [issue 2](https://microcosmpublishing.com/catalog/zines/8067).
+Support us by buying Party Line [issue 1](https://microcosmpublishing.com/catalog/zines/8068), [issue 2](https://microcosmpublishing.com/catalog/zines/8067), or [issue 3](https://microcosmpublishing.com/catalog/zines/9975).
 
 Support us by making a [PayPal donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AQGWRM869XTQJ) courtesy of [Umbrella](https://www.umbrellapdx.org/projects).
 
