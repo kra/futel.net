@@ -27,7 +27,7 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 
 ### Contributors
 
-Thanks to **KRA**, **xnor**, **G Upshaw**, **Landline Creative**, and **M Hansen** for siting public telephones.
+Thanks to **KRA**, **xnor**, **G Upshaw**, **Landline Creative**, **M Hansen**, and **PAZ** for siting public telephones.
 
 Futel's 2018 operations are funded in part by a donation from **Nelson**.
 
