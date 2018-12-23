@@ -31,12 +31,8 @@ Thanks to **KRA**, **xnor**, **G Upshaw**, **Landline Creative**, **M Hansen**, 
 
 Futel's 2018 operations are funded in part by a donation from **Nelson**.
 
-Futel's 2017 operations are funded in part by a 2016 **Precipice Fund** grant, funded by Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts.
+Futel's 2018 operations are funded in part by a donation from the **Twilio.org Impact Corps Program**.
 
-Futel's 2017 operations are funded in part by a donation from **Nelson**.
-
-Futel's 2017 operations are funded in part by a donation from **Awesome Ann Arbor**.
-
-Thanks to the [Regional Arts and Culture Council](http://racc.org/), [Awesome Portland](http://awesomeportland.org/), Russell Senior, the [Personal Telco Project](https://personaltelco.net), [Free Geek Portland](http://www.freegeek.org/), [ToorCamp](http://toorcamp.toorcon.net/), and [Ctrlh](http://pdxhackerspace.org/) for their support.
+Thanks to the Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts, the [Regional Arts and Culture Council](http://racc.org/), Nelson, [Awesome Ann Arbor](http://a2awesome.org/), [Awesome Portland](http://awesomeportland.org/), Russell Senior, the [Personal Telco Project](https://personaltelco.net), [Free Geek Portland](http://www.freegeek.org/), [ToorCamp](http://toorcamp.toorcon.net/), and [Ctrlh](http://pdxhackerspace.org/) for their support.
 
 Thanks to Drew at MOHDI and B. Davis for donating labor and materials. Thanks to [B-Line Urban Delivery](http://b-linepdx.com/), [Hobotech](http://www.hobotech.org/), and [Snaptortoise](https://snaptortoise.com) for donating services. Thanks to everyone who has donated time, money, expertise, and materials.
