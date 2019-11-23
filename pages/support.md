@@ -23,11 +23,11 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 
 ### Labor
 
-Karl Anderson, Tishbite, developers. Karl Anderson, Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous, operators. B. Casey, M. Casey, M. Lippincott, R. Senior, S., physical plant. D. Wager, HR. J. Plumb, xnor, production. Ry4an B., troubleshooter. B. Thunderblood, art. J. Mejia, B. Richardson, media.
+Karl Anderson, director. Karl Anderson, Tishbite, developers. Karl Anderson, Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous, operators. B. Casey, M. Casey, M. Lippincott, R. Senior, S., Sebastian Noack, physical plant. D. Wager, HR. J. Plumb, xnor, production. Ry4an B., troubleshooter. B. Thunderblood, art. J. Mejia, B. Richardson, media.
 
 ### Contributors
 
-Thanks to **KRA**, **xnor**, **G Upshaw**, **Landline Creative**, **M Hansen**, **Daniels Memorial**, and **PAZ** for siting public telephones.
+Thanks to **KRA**, **xnor**, **G Upshaw**, **Landline Creative**, **M Hansen**, **Daniels Memorial**, **PAZ**, and **Sebastian Noack** for siting public telephones.
 
 Futel's 2018 operations are funded in part by a donation from **Nelson**.
 
