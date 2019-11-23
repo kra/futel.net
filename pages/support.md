@@ -13,8 +13,6 @@ Support us by buying a [T-shirt or button](http://futel.spreadshirt.com/).
 
 Support us by buying Party Line [issue 1](https://microcosmpublishing.com/catalog/zines/8068), [issue 2](https://microcosmpublishing.com/catalog/zines/8067), [issue 3](https://microcosmpublishing.com/catalog/zines/9975), or [issue 4](https://microcosmpublishing.com/catalog/zines/10920).
 
-Support us by making a [PayPal donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AQGWRM869XTQJ) courtesy of [Umbrella](https://www.umbrellapdx.org/projects).
-
 Have any of these [items](/wishlist)?
 
 Want to hack on Futel? See our repositories for [dev and ops](https://github.com/kra/futel-installation), [web development](https://github.com/kra/futel.net), [ops box](https://github.com/kra/futel-substation) and [general ops](https://github.com/kra/futel). Creator of interactive audio art? We can help you implement your ideas in this exciting new format.
@@ -27,7 +25,7 @@ Karl Anderson, director. Karl Anderson, Tishbite, developers. Karl Anderson, Tis
 
 ### Contributors
 
-Thanks to **KRA**, **xnor**, **G Upshaw**, **Landline Creative**, **M Hansen**, **Daniels Memorial**, **PAZ**, and **Sebastian Noack** for siting public telephones.
+Thanks to **KRA**, **xnor**, **G Upshaw**, **Landline Creative**, **M Hansen**, **Daniels Memorial**, **PAZ**, **Saluthaus**, and **Sebastian Noack** for siting public telephones.
 
 Futel's 2020 operations are funded in part by a donation from the **[Regional Arts and Culture Council](http://racc.org/)**.
 
