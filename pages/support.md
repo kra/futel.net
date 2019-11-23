@@ -21,7 +21,7 @@ Want to hack on Futel? See our repositories for [dev and ops](https://github.com
 
 Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dial 0 from any Futel phone.
 
-### Operators
+### Labor
 
 [KRA](https://github.com/kra), [Tishbite](https://github.com/lboom), developers. KRA, Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous, operators. B. Casey, M. Casey, M. Lippincott, R. Senior, S., physical plant. D. Wager, HR. J. Plumb, xnor, production. Ry4an B., troubleshooter. B. Thunderblood, art. J. Mejia, B. Richardson, media.
 
