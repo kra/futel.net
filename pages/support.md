@@ -7,7 +7,9 @@ image: yipl_public_enemy.png
 
 Futel is made possible by volunteers and contributors, who we thank! Futel is a 501(c)(3) nonprofit organization, and contributions are tax deductible.
 
-Support us by donating with [PayPal or a credit card](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=futel%40pdxhs.org&item_name=Futel&currency_code=USD&source=url). Here's a button! <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+Support us by donating with [PayPal or a credit card](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=futel%40pdxhs.org&item_name=Futel&currency_code=USD&source=url). Here's a button!
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations" />
 <input type="hidden" name="business" value="futel@pdxhs.org" />
 <input type="hidden" name="item_name" value="Futel" />
