@@ -32,7 +32,16 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 
 ### Labor
 
-Karl Anderson, director. Karl Anderson, Tishbite, developers. Karl Anderson, Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous, operators. B. Casey, M. Casey, M. Lippincott, R. Senior, S., Sebastian Noack, physical plant. D. Wager, HR. J. Plumb, xnor, production. Ry4an B., troubleshooter. B. Thunderblood, art. J. Mejia, B. Richardson, media.
+- Director, Karl Anderson.
+- Developers, Karl Anderson, Tishbite.
+- Operations, Karl Anderson.
+- Operators, Karl Anderson, Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous.
+- Physical Plant, B. Casey, M. Casey, M. Lippincott, R. Senior, S., Sebastian Noack, J. Mejia, J. Plumb.
+- Troubleshooter, Ry4an B.
+- Production, J. Plumb, xnor.
+- Design, D. Wager.
+- Art, D. Wager, B. Thunderblood, Fiona Bearclaw, Lance E. Pants.
+- Media, J. Mejia, B. Richardson.
 
 ### Contributors
 
