@@ -36,7 +36,7 @@ Karl Anderson, director. Karl Anderson, Tishbite, developers. Karl Anderson, Tis
 
 ### Contributors
 
-Thanks to **KRA**, **xnor**, **G Upshaw**, **Landline Creative**, **M Hansen**, **Daniels Memorial**, **PAZ**, **Saluthaus**, and **Sebastian Noack** for siting public telephones.
+Thanks to our public telephone hosts **G Upshaw**, **xnor**, **M Hansen**, **PAZ**, **Daniels Memorial**, **Leslie Harper**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, and **Open Signal**.
 
 Futel's 2020 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)**.
 
