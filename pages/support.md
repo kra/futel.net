@@ -33,7 +33,7 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 ### Labor
 
 - Director, Karl Anderson.
-- Developers, Karl Anderson, Tishbite.
+- Developers, Karl Anderson, Tishbite, J. Plumb.
 - Operations, Karl Anderson.
 - Operators, Karl Anderson, Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous.
 - Physical Plant, B. Casey, M. Casey, M. Lippincott, R. Senior, S., Sebastian Noack, J. Mejia, J. Plumb.
@@ -45,7 +45,7 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 
 ### Contributors
 
-Thanks to our public telephone hosts **G Upshaw**, **xnor**, **M Hansen**, **PAZ**, **Daniels Memorial**, **Leslie Harper**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, and **Open Signal**.
+Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **M. Hansen**, **PAZ**, **Daniels Memorial**, **Lesley Harper**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, and **Open Signal**.
 
 Futel's 2020 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)**.
 
