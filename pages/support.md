@@ -35,6 +35,7 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 - Director, Karl Anderson.
 - Developers, Karl Anderson, Tishbite, J. Plumb.
 - Operations, Karl Anderson.
+- Hygiene and Sanitation, M. Lippincott.
 - Operators, Karl Anderson, Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous.
 - Physical Plant, B. Casey, M. Casey, M. Lippincott, R. Senior, S., Sebastian Noack, J. Mejia, J. Plumb.
 - Troubleshooter, Ry4an B.
