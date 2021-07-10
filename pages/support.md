@@ -22,7 +22,7 @@ Support us by subscribing on [Patreon](http://patreon.com/futel).
 
 Support us by buying [T-shirts or buttons](https://shop.spreadshirt.com/futel/), or [stickers](https://www.zazzle.com/store/futelco/products).
 
-Support us by buying Party Line [issue 1](https://microcosmpublishing.com/catalog/zines/8068), [issue 2](https://microcosmpublishing.com/catalog/zines/8067), [issue 3](https://microcosmpublishing.com/catalog/zines/9975), [issue 4](https://microcosmpublishing.com/catalog/zines/10920), or [issue 5](https://microcosmpublishing.com/catalog/zines/13070).
+Support us by buying Party Line issues [1](https://microcosmpublishing.com/catalog/zines/8068), [2](https://microcosmpublishing.com/catalog/zines/8067), [3](https://microcosmpublishing.com/catalog/zines/9975), [4](https://microcosmpublishing.com/catalog/zines/10920), [5](https://microcosmpublishing.com/catalog/zines/13070), and [6](https://microcosmpublishing.com/catalog/zines/28431).
 
 Have any of these [items](/wishlist)?
 
