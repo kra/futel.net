@@ -39,10 +39,9 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 - Operators, Karl Anderson, Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous.
 - Physical Plant, B. Casey, M. Casey, M. Lippincott, R. Senior, S., Sebastian Noack, J. Mejia, J. Plumb.
 - Troubleshooter, Ry4an B.
-- Production, J. Plumb, xnor.
-- Design, D. Wager.
+- Production, J. Plumb, xnor, J. Mejia, B. Richardson.
+- Design, D. Wager, M. Lippincott.
 - Art, D. Wager, B. Thunderblood, Fiona Bearclaw, Lance E. Pants.
-- Media, J. Mejia, B. Richardson.
 
 ### Contributors
 
