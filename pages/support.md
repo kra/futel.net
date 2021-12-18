@@ -46,10 +46,10 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 
 ### Contributors
 
-Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **M. Hansen**, **Daniels Memorial**, **Lesley Harper**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **Open Signal**, **J. Mejia**, and **Tishbite**.
+Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **M. Hansen**, **Daniels Memorial**, **Lesley Harper**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejia**, and **Tishbite**.
 
 Futel's 2020 and 2021 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)**.
 
-Futel's 2018 and 2019 operations are funded in part by **Nelson**.
+Futel's 2018, 2019, and 2021 operations are funded in part by **Nelson**.
 
-Thanks to [PDX Hackerspace](http://pdxhackerspace.org/), Dug Song, Russell Senior, [Snaptortoise](https://snaptortoise.com), the Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts, [Awesome Ann Arbor](http://a2awesome.org/), [Awesome Portland](http://awesomeportland.org/), the Twilio.org Impact Corps Program,[Hobotech](http://www.hobotech.org/), the [Personal Telco Project](https://personaltelco.net), [Free Geek Portland](http://www.freegeek.org/), [ToorCamp](http://toorcamp.toorcon.net/), Sharita Towne, Drew at MOHDI, B. Davis, and [B-Line Urban Delivery](http://b-linepdx.com/) for their support. Thanks to everyone who has donated time, money, expertise, and materials.
+Thanks to [PDX Hackerspace](http://pdxhackerspace.org/), Dug Song, Russell Senior, [Snaptortoise](https://snaptortoise.com), the Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts, [Awesome Ann Arbor](http://a2awesome.org/), [Awesome Portland](http://awesomeportland.org/), the Twilio.org Impact Corps Program,[Hobotech](http://www.hobotech.org/), the [Personal Telco Project](https://personaltelco.net), [Free Geek Portland](http://www.freegeek.org/), [ToorCamp](http://toorcamp.toorcon.net/), Sharita Towne, [Open Signal](https://www.opensignalpdx.org/), Drew at MOHDI, B. Davis, and [B-Line Urban Delivery](http://b-linepdx.com/) for their support. Thanks to everyone who has donated time, money, expertise, and materials.
