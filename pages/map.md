@@ -4,4 +4,4 @@ title: Map
 permalink: /map/
 ---
 
-![Chickens](/images/servicemap.png)
+![Several maps show the geographic location of Futel phone installations.](/images/servicemap.png)
