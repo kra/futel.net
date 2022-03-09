@@ -6,8 +6,11 @@
     <li role="presentation"{% if page.url == p.url %} class='active'{% endif %}>
       <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
     </li>
-    {% endif %}    
+    {% endif %}
   {% endfor %}
 </ul>
 
-<img src="/images/{% if page.image %}{{ page.image }}{% else %}futel.net-lightning.png{% endif %}" alt="{{ site.title }}" class='img-responsive hidden-xs hidden-sm'>
+<img src="/images/{% if page.image %}{{ page.image }}{% else %}futel.net-lightning.png{% endif %}"
+  class='img-responsive hidden-xs hidden-sm'
+  alt="{% if page.image-alt %}{{ page.image-alt }}{% else %}{{site.title}}{% endif %}"
+  >
