@@ -3,6 +3,7 @@ layout: default
 title: Media
 permalink: /media/
 image: 'tombstone_1.png'
+image-alt: 'A cartoon skeleton hand holding a phone handset extends from a grave'
 ---
 
 # Publications
@@ -17,7 +18,3 @@ image: 'tombstone_1.png'
 - "Futel: Telecommunications colossus of the modern age", DonutJS presentation, [February 27, 2018](https://www.youtube.com/watch?v=wRh18Sqahhg)
 - "FUTEL: THE TELEPHONE OF THE FUTURE, TODAY!", Curiosity Club presentation, [April 7, 2015](https://www.youtube.com/watch?v=Jw5OtRhOwO0)
 - "Futel: the future of the past of telephony", Open Source Bridge presentation, [June 5, 2014](https://www.youtube.com/watch?v=2Da7MDvRjYo)
-
-
-
-

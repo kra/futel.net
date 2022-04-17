@@ -3,6 +3,7 @@ layout: default
 title: Support
 permalink: /support/
 image: yipl_public_enemy.png
+image-alt: A hand-drawn bell logo with the caption 'public enemy'.
 ---
 
 Futel is made possible by volunteers and contributors, who we thank! Futel is a 501(c)(3) nonprofit organization, and contributions are tax deductible.

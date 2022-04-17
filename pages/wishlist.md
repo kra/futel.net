@@ -3,6 +3,7 @@ layout: default
 title: Wishlist
 permalink: /wishlist/
 image: 'sissyphus_bell.png'
+image-alt: A cartoon stick figure pushes the bell logo up a steep incline.
 ---
 
 - OpenWrt compatible [routers](https://openwrt.org/toh/start).

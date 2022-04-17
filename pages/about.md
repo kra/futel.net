@@ -10,4 +10,4 @@ To what extent are our interactions mediated by intelligent machines? Who is doi
 
 We are primarily driven by the basic needs that we see on the streets every day, by giving something away that is cheap for us but valuable to the recipient. But we hope that we can also build a tower of Babel on top of that, a monument of telephones and switching networks and cascading psychological structures which will give the community something else as well, something we may not appreciate until it has forever changed us.
 
-![Chickens](/images/chickens.jpg)
+![3 chickens peck the sidewalk below a public Futel phone.](/images/chickens.jpg)
