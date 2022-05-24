@@ -34,12 +34,10 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 ### Labor
 
 - Director, Karl Anderson.
-- Developers, Karl Anderson, Tishbite, breedx.
-- Operations, Karl Anderson.
+- Software Engineering and Operations, Karl Anderson, Tishbite, breedx.
 - Hygiene and Sanitation, M. Lippincott.
 - Operators, Karl Anderson, Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous.
-- Physical Plant, B. Casey, M. Casey, M. Lippincott, R. Senior, S., Sebastian Noack, J. Mejia, breedx.
-- Troubleshooter, Ry4an B.
+- Physical Plant, Ry4an B, B. Casey, M. Casey, M. Lippincott, R. Senior, S., Sebastian Noack, J. Mejia, breedx.
 - Production, breedx, xnor, J. Mejia, B. Richardson.
 - Design, D. Wager, M. Lippincott.
 - Art, D. Wager, B. Thunderblood, Fiona Bearclaw, Lance E. Pants.
