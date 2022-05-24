@@ -44,7 +44,7 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 
 ### Contributors
 
-Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **M. Hansen**, **Daniels Memorial**, **Lesley Harper**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejia**, **Tishbite**, and **Hedron Hackerspace**.
+Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **M. Hansen**, **Anonymous**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejia**, **Tishbite**, **Anonymous**, and **Hedron Hackerspace**.
 
 Futel's 2020 and 2021 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)**.
 
