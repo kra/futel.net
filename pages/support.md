@@ -48,6 +48,10 @@ Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **M. Hansen**, **D
 
 Futel's 2020 and 2021 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)**.
 
-Futel's 2018, 2019, and 2021 operations are funded in part by **Nelson**.
+Futel's 2018-2022 operations are funded in part by **Nelson**.
 
-Thanks to [PDX Hackerspace](http://pdxhackerspace.org/), Dug Song, Russell Senior, [Snaptortoise](https://snaptortoise.com), the Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts, [Awesome Ann Arbor](http://a2awesome.org/), [Awesome Portland](http://awesomeportland.org/), the Twilio.org Impact Corps Program,[Hobotech](http://www.hobotech.org/), the [Personal Telco Project](https://personaltelco.net), [Free Geek Portland](http://www.freegeek.org/), [ToorCamp](http://toorcamp.toorcon.net/), Sharita Towne, [Open Signal](https://www.opensignalpdx.org/), Drew at MOHDI, B. Davis, and [B-Line Urban Delivery](http://b-linepdx.com/) for their support. Thanks to everyone who has donated time, money, expertise, and materials.
+Thanks to our funding contributors including Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts, [Awesome Ann Arbor](http://a2awesome.org/), [Awesome Portland](http://awesomeportland.org/), the Twilio.org Impact Corps Program, and [ToorCamp](http://toorcamp.toorcon.net/).
+
+Thanks to the [Personal Telco Project](https://personaltelco.net), [Free Geek Portland](http://www.freegeek.org/), Hankins Hardware, and B. Davis for donating materials.
+
+Thanks to [PDX Hackerspace](http://pdxhackerspace.org/), Dug Song, Russell Senior, [Snaptortoise](https://snaptortoise.com), [Hobotech](http://www.hobotech.org/), Sharita Towne, [Open Signal](https://www.opensignalpdx.org/), Drew at MOHDI, and [B-Line Urban Delivery](http://b-linepdx.com/) for their support. Thanks to everyone who has donated time, money, and expertise.
