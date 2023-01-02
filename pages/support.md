@@ -56,4 +56,4 @@ Thanks to our funding contributors including Precipice Fund, Calligram Foundatio
 
 Thanks to the [Personal Telco Project](https://personaltelco.net), [Free Geek Portland](http://www.freegeek.org/), Hankins Hardware, and B. Davis for donating materials.
 
-Thanks to [PDX Hackerspace](http://pdxhackerspace.org/), Dug Song, [Snaptortoise](https://snaptortoise.com), [Hobotech](http://www.hobotech.org/), Sharita Towne, [Open Signal](https://www.opensignalpdx.org/), Drew at MOHDI, and [B-Line Urban Delivery](http://b-linepdx.com/) for their support. Thanks to everyone who has donated time, money, and expertise.
+Thanks to [PDX Hackerspace](http://pdxhackerspace.org/), Dug Song, [Snaptortoise](https://snaptortoise.com), Sharita Towne, [Open Signal](https://www.opensignalpdx.org/), Drew at MOHDI, and [B-Line Urban Delivery](http://b-linepdx.com/) for their support. Thanks to everyone who has donated time, money, and expertise.
