@@ -46,7 +46,9 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 
 Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **M. Hansen**, **Anonymous**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejia**, **Tishbite**, **Anonymous**, and **Anonymous**.
 
-Futel's 2020 and 2021 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)**.
+Futel's 2022 operations are funded in part by the **Social Justice Action Center**.
+
+Futel's 2020-2022 operations are funded in part by the **[Regional Arts and Culture Council](http://racc.org/)**.
 
 Futel's 2018-2022 operations are funded in part by **Nelson**.
 
