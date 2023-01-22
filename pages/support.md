@@ -27,7 +27,7 @@ Support us by buying Party Line issues [1](https://microcosmpublishing.com/catal
 
 Have any of these [items](/wishlist)?
 
-Potential installation host? Contact us. Want to hack on Futel? See our repositories for [dev and ops](https://github.com/kra/futel-installation), [web development](https://github.com/kra/futel.net), [ops box](https://github.com/kra/futel-substation) and [general ops](https://github.com/kra/futel). Creator of interactive audio art? We can help you implement your ideas in this exciting new format.
+Potential installation host? Contact us. Want to hack on Futel? See our [repositories](https://github.com/futel). Creator of interactive audio art? We can help you implement your ideas in this exciting new format.
 
 Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dial 0 from any Futel phone.
 
