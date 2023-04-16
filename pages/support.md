@@ -44,7 +44,7 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 
 ### Contributors
 
-Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **M. Hansen**, **Anonymous**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejia**, **Tishbite**, **Anonymous**, and **Anonymous**.
+Thanks to our public telephone hosts **G. Upshaw**, **xnor**, **Anonymous**, **Sou'Wester Lodge**, **Landline Creative**, **Saluthaus**, **Sebastian Noack**, **J. Mejia**, **Tishbite**, **Anonymous**, **Microcosm Publishing**, and **M. Hansen**.
 
 Futel's 2022 operations are funded in part by the **Social Justice Action Center**.
 
