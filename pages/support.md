@@ -37,7 +37,7 @@ Contact us at <a href='mailto:operator@futel.net'>operator@futel.net</a>, or dia
 - Software Engineering and Operations, Karl Anderson, Tishbite, breedx, Russell Senior.
 - Hygiene and Sanitation, M. Lippincott.
 - Operators, Karl Anderson, Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous, Anonymous.
-- Physical Plant, Ry4an B, M. Lippincott, R. Senior, Sebastian Noack, J. Mejia, breedx.
+- Physical Plant, breedx, Tishbite, Ry4an B, M. Lippincott, Russell Senior, Sebastian Noack, J. Mejia.
 - Production, breedx, xnor, J. Mejia, B. Richardson.
 - Design, D. Wager, M. Lippincott.
 - Art, D. Wager, B. Thunderblood, Fiona Bearclaw, Lance E. Pants.
